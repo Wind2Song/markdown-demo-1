@@ -11,7 +11,7 @@
 2. 苍井优
 3. 园田真理
 
-目前正在学Javascript
+目前正在学JavaScript
 
 ```javascript
 var b = 2
